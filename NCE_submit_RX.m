@@ -32,7 +32,7 @@
 % ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE 
 % POSSIBILITY OF SUCH DAMAGE.
 %
-% [1] https://www.nature.com/articles/...
+% [1] https://www.nature.com/articles/s44172-023-00147-3
 %% 
 clear
 close all
