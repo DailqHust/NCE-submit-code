@@ -1,4 +1,4 @@
-% Copyright (c) 2023, Longquan Dai, Li Di, Lei Deng in Wuhan National Laboratory 
+% Copyright (c) 2023, Longquan Dai, Di Li, Lei Deng in Wuhan National Laboratory 
 % for Optoelectronics and School of Optical and Electronic Information, 
 % Huazhong University of Science and Technology, Wuhan 430074, China
 % All rights reserved.
